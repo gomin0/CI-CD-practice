@@ -1,1 +1,1 @@
-cicd - gitaction & codedeploy
+CI/CD - gitaction & codedeploy
